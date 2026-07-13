@@ -1,5 +1,5 @@
 {
-  "tag_name": "v1.10.0",
+  "tag_name": "v1.10.0-LTL",
   "published_at": "2025-03-25T15:40:22Z",
   "is_deferred_update": false,
   "body": "- Change the layout of the Cobalt Tube Settings section.\n- Allows to Turn Off Screen while playing video.\n- Change the appearance of the player interface slightly.\n- Sort Subscriptions by Alphabet.\n- Bug fixes and performance improvements.",
